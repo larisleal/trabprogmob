@@ -4,7 +4,7 @@ Repositório do trabalho de Programação para Dispositivos Móveis 2022/1
 
 ### Alunos do Grupo
 1. 👩‍💻 **Nome**. Larissa Leal || **RGA**. 2018.1906.013-6
-2. 👨‍💻 **Nome**. Marcus Vinicius || **RGA**.
+2. 👨‍💻 **Nome**. Marcus Vinicius Angelo || **RGA**. 2017.1907.065-2
 
 ## Informações Gerais 📄
 
