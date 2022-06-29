@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582439000869",
+    "project_id": "tbprogmob",
+    "storage_bucket": "tbprogmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582439000869:android:3289c3988dcc0abec698cc",
+        "android_client_info": {
+          "package_name": "com.tbprogmob.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582439000869-8ig4218aspm1lci7ahg9094s8caavsc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKyOuJx4-1H06W7I1vVGBOcdhkAJDNec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582439000869-8ig4218aspm1lci7ahg9094s8caavsc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
