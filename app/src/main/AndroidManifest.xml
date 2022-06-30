@@ -22,7 +22,7 @@
         <activity android:name="com.tbprogmob.instaclone.MainActivity" />
         <activity android:name="com.tbprogmob.instaclone.RegisterActivity" />
         <activity android:name="com.tbprogmob.instaclone.LoginActivity" />
-        <activity android:name="com.tbprogmob.instaclone.StartActivity">
+        <activity android:name="com.tbprogmob.instaclone.StartActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
