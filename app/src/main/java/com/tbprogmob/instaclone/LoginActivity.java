@@ -62,7 +62,7 @@ public class LoginActivity extends AppCompatActivity {
                 String str_password = password.getText().toString();
 
                 if (TextUtils.isEmpty(str_email) || TextUtils.isEmpty(str_password)){
-                    Toast.makeText(LoginActivity.this, "Empty Credential$", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(LoginActivity.this, "Não é possível comer se não há ração no pote. Por favor, preencha os campos para fazer login.", Toast.LENGTH_SHORT).show();
                 } else {
                     auth.signInWithEmailAndPassword(str_email , str_password).addOnCompleteListener(LoginActivity.this , new OnCompleteListener<AuthResult>() {
                         @Override

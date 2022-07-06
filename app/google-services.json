@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "582439000869",
+    "firebase_url": "https://tbprogmob-default-rtdb.firebaseio.com",
     "project_id": "tbprogmob",
     "storage_bucket": "tbprogmob.appspot.com"
   },

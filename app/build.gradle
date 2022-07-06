@@ -2,8 +2,12 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
 android {
+<<<<<<< HEAD
     compileSdkVersion 31
     buildToolsVersion "29.0.1"
+=======
+    compileSdkVersion 29
+>>>>>>> 72ef95b (atualização das configurações firebase)
     defaultConfig {
         applicationId "com.tbprogmob.instaclone"
         minSdkVersion 22
