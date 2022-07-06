@@ -31,3 +31,5 @@ Repositório do trabalho de Programação para Dispositivos Móveis 2022/1
  - A aplicação será implementada utilizando _Firebase_ e terá estrutura utilizando _Activities, Fragments, Adapters e Models_.
  - Haverão _activities, fragments e adapters_ separados para cada tipo de ação dentro do app, como comentar, editar perfil, cadastrar, postar, etc.
 -  Ao receber uma ação do usuário dentro da _activity ou fragment_, o aplicativo irá chamar a ação no _adapter_ relacionado e correlacionar com uma _model_ e fazer um _create, read, update ou delete_ dentro do banco de dados.
+
+Link github: https://github.com/larisleal/trabprogmob
